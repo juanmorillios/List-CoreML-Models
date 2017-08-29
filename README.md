@@ -2,9 +2,10 @@
 
 
 ![Banner](https://github.com/juanmorillios/List-CoreML-Models/blob/master/banner.png)
-A List CoreML-Models projects and resources. Feel free to contribute!
 
-With Core ML, you can integrate trained machine learning models into your app.
+## A List CoreML-Models projects and resources. Feel free to contribute!
+
+#  With Core ML, you can integrate trained machine learning models into your app.
 
 CoreML-Models is the result of applying a machine learning algorithm to a set of training data. The model makes predictions based on new input data. For example, a model that's been trained on a region's historical house prices may be able to predict a house's price when given the number of bedrooms and bathrooms.
 
