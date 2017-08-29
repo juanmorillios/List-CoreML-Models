@@ -1,7 +1,7 @@
 # List CoreML-Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-![Banner](https://raw.githubusercontent.com/olucurious/awesome-arkit/master/banner.png)
+![Banner](https://github.com/juanmorillios/List-CoreML-Models/blob/master/banner.png)
 A List CoreML-Models projects and resources. Feel free to contribute!
 
 With Core ML, you can integrate trained machine learning models into your app.
