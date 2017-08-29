@@ -55,6 +55,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 * [Official CoreML Documentation](https://developer.apple.com/documentation/coreml)
 
+# Lista Twitter
+* [Follow us Twitter](https://twitter.com/ACoreMLModels) - Follow us on the next on twitter.
 
 # Contributing
 
