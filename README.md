@@ -19,6 +19,28 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML.
 
+* [Artists Recommendation](https://github.com/agnosticdev/Blog-Examples/tree/master/UsingCoreMLtoCreateASongRecommendationEngine) - Recommend a artist based on given location and genre.
+
+* [NamesDT](https://github.com/agnosticdev/Blog-Examples/tree/master/UsingCoreMLtoCreateASongRecommendationEngine) - Predict whether a name is for male or female.
+
+* [FlickrStyle](https://github.com/SwiftBrain/awesome-CoreML-models) - Detect the artistic style of images.
+
+* [Oxford102](https://github.com/cocoa-ai/FlowersVisionDemo) - Detect the type of flowers from images.
+
+* [Food101](https://github.com/ph1ps/Food101-CoreML) - Predict the type of foods from images.
+
+* [SentimentVision](https://github.com/cocoa-ai/SentimentVisionDemo) - Predict positive or negative sentiments from images.
+
+* [HED](https://github.com/s1ddok/HED-CoreML) - Detect nested edges from a color image. Models.
+
+* [Sentiment Polarity](https://github.com/cocoa-ai/SentimentCoreMLDemo) - Predict positive or negative sentiments from sentences.
+
+* [MNIST](https://github.com/ph1ps/MNIST-CoreML) - Predict handwritten (drawn) digits from images.
+
+* [EmotionNet](https://github.com/cocoa-ai/FacesVisionDemo) - Predict a person's emotion from one's portrait.
+
+* [GenderNet](https://github.com/cocoa-ai/FacesVisionDemo) - Predict a person's gender from one's portrait.
+
 
 
 # Articles
