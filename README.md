@@ -47,7 +47,7 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 * [Car Recognition ](https://github.com/ytakzk/CoreML-samples) - Detects the dominant objects present in an image. 
 
-* [Car VGG16 ](https://github.com/alaphao/CoreMLExample) - https://github.com/ytakzk/CoreML-samples
+* [Car VGG16 ](https://github.com/alaphao/CoreMLExample) - Detects the dominant objects present in an image. 
 
 * [ResNet50 ](https://github.com/ytakzk/CoreML-samples) - Predict the brand & model of a car. 
 
