@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [VisualSentimentCNN](https://github.com/imatge-upc/sentiment-2017-imavis) - From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction
+
 * [Tutorial_coreml](https://github.com/emannuelOC/tutorial_coreml) - Integrating Machine Learning models into your app.
 
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML.
