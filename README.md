@@ -41,6 +41,21 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 * [GenderNet](https://github.com/cocoa-ai/FacesVisionDemo) - Predict a person's gender from one's portrait.
 
+* [AgeNet](https://github.com/cocoa-ai/FacesVisionDemo) - Predict a person's age from one's portrait.
+
+* [YOLO](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) - Recognize what the objects are inside a given image and where they are in the image. 
+
+* [Car Recognition ](https://github.com/ytakzk/CoreML-samples) - Detects the dominant objects present in an image. 
+
+* [Car VGG16 ](https://github.com/alaphao/CoreMLExample) - https://github.com/ytakzk/CoreML-samples
+
+* [ResNet50 ](https://github.com/ytakzk/CoreML-samples) - Predict the brand & model of a car. 
+
+* [Inception v3 ](https://github.com/yulingtianxia/Core-ML-Sample/) - Detects the dominant objects present in an image.
+
+* [Places CNN](https://github.com/chenyi1989/CoreMLDemo) - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc.
+
+* [MobileNet](https://github.com/hollance/MobileNet-CoreML) - Detects the dominant objects present in an image. 
 
 
 # Articles
