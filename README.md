@@ -17,7 +17,7 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
-* [VisualSentimentCNN](https://github.com/imatge-upc/sentiment-2017-imavis) - From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction
+* [VisualSentimentCNN](https://github.com/imatge-upc/sentiment-2017-imavis) - From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction.
 
 * [Tutorial_coreml](https://github.com/emannuelOC/tutorial_coreml) - Integrating Machine Learning models into your app.
 
@@ -36,6 +36,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 * [SentimentVision](https://github.com/cocoa-ai/SentimentVisionDemo) - Predict positive or negative sentiments from images.
 
 * [HED](https://github.com/s1ddok/HED-CoreML) - Detect nested edges from a color image. Models.
+
+* [FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo) - Gender Classification from first names.
 
 * [Sentiment Polarity](https://github.com/cocoa-ai/SentimentCoreMLDemo) - Predict positive or negative sentiments from sentences.
 
