@@ -2,7 +2,6 @@
 
 By participating in this project you agree to abide by its terms.
 
-
 Ensure your pull request adheres to the following guidelines:
 
 - **If you just created something, wait at least 24 hours before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
