@@ -77,7 +77,17 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 * [Official CoreML Documentation](https://developer.apple.com/documentation/coreml)
 
 # Twitter
+
 * [Follow us Twitter](https://twitter.com/ACoreMLModels) - Follow us on the next on twitter.
+
+## Utilities to Work with Core ML
+
+
+* [TensorFlow](https://github.com/tensorflow/models) - This repository contains machine learning models implemented in TensorFlow. The models are maintained by their respective authors. To propose a model for inclusion, please submit a pull request.
+
+* [Caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo) - Lots of researchers and engineers have made Caffe models for different tasks with all kinds of architectures and data: check out the model zoo! 
+
+* [TensorFlow Slim](https://github.com/tensorflow/models/blob/master/slim/README.md) - TF-slim is a new lightweight high-level API of TensorFlow (tensorflow.contrib.slim) for defining, training and evaluating complex models. 
 
 # Contributing
 
