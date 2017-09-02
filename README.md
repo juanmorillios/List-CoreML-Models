@@ -27,7 +27,7 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 * [NamesDT](https://github.com/agnosticdev/Blog-Examples/tree/master/UsingCoreMLtoCreateASongRecommendationEngine) - Predict whether a name is for male or female.
 
-* [FlickrStyle](https://github.com/SwiftBrain/awesome-CoreML-models) - Detect the artistic style of images.
+* [FlickrStyle](https://github.com/cocoa-ai/StylesVisionDemo) - Detect the artistic style of images.
 
 * [Oxford102](https://github.com/cocoa-ai/FlowersVisionDemo) - Detect the type of flowers from images.
 
