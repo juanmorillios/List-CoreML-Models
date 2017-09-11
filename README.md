@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [ImageDetector-Machine-Learning](https://github.com/JeaneC/ImageDetector-Machine-Learning) - This uses iOS 11's CoreML combined with Google's Inceptionv3 Model to detect the contents of an image taken in the camera or selected from the library.
+
 * [VisualSentimentCNN](https://github.com/imatge-upc/sentiment-2017-imavis) - From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction.
 
 * [Tutorial_coreml](https://github.com/emannuelOC/tutorial_coreml) - Integrating Machine Learning models into your app.
