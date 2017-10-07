@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - This app takes a radom photo from Unsplash and make predictions about what is inside with Core ML framework using InceptionV3 model.
+
 * [ObjectDetectionCoreML](https://github.com/ioramashvili/ObjectDetectionCoreML) - Compare CoreML models.
 
 * [ImageDetector-Machine-Learning](https://github.com/JeaneC/ImageDetector-Machine-Learning) - This uses iOS 11's CoreML combined with Google's Inceptionv3 Model to detect the contents of an image taken in the camera or selected from the library.
