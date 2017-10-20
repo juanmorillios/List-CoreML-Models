@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [Food101-CoreML](https://github.com/ph1ps/Food101-CoreML) - A CoreML model which classifies images of food.
+
 * [UnsplashExplorer-CoreML](https://github.com/ahmetws/UnsplashExplorer-CoreML) - This app takes a radom photo from Unsplash and make predictions about what is inside with Core ML framework using InceptionV3 model.
 
 * [ObjectDetectionCoreML](https://github.com/ioramashvili/ObjectDetectionCoreML) - Compare CoreML models.
