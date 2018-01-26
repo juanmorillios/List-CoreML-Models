@@ -113,6 +113,10 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 ## Utilities to Work with Core ML
 
+* [Torch7](https://github.com/prisma-ai/torch2coreml) - Torch7 -> CoreML
+
+* [MXNet](https://aws.amazon.com/es/blogs/machine-learning/bring-machine-learning-to-ios-apps-using-apache-mxnet-and-apple-core-ml/) - Bring Machine Learning to iOS apps using Apache MXNet and Apple Core ML
+
 * [coremltools](https://apple.github.io/coremltools/index.html) - Core ML is an Apple framework that allows developers to easily integrate machine learning (ML) models into apps. Core ML is availiable on iOS, watchOS, macOS, and tvOS. Core ML introduces a public file format (.mlmodel) for a broad set of ML methods including deep neural networks (convolutional and recurrent), tree ensembles (boosted trees, random forest, decision trees), and generalized linear models. Core ML models directly integrate into apps within Xcode.
 
 * [TensorFlow](https://github.com/tensorflow/models) - This repository contains machine learning models implemented in TensorFlow. The models are maintained by their respective authors. To propose a model for inclusion, please submit a pull request.
