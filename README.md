@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [DocumentClassifier](https://github.com/toddkramer/DocumentClassifier) - Swift framework for document classification using a Core ML model.
+
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR.
 
 * [Food101-CoreML](https://github.com/ph1ps/Food101-CoreML) - A CoreML model which classifies images of food.
