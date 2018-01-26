@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [Nudity](https://github.com/ph1ps/Nudity-CoreML) - Classifies an image either as NSFW (nude) or SFW (not nude)
+
 * [RN1015k500](https://github.com/awslabs/MXNet2CoreML_iOS_sample_app) - Predict the location where a picture was taken.
 
 * [CNNEmotions](https://github.com/cocoa-ai/FacesVisionDemo) - Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns
