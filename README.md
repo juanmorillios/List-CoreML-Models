@@ -16,6 +16,15 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 - - -
 
 # Projects
+
+* [SentimentPolarity](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 demo application for sentiment polarity analysis.
+
+* [SentimentPolarity](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 demo application for sentiment polarity analysis.
+
+* [imessage-spam-detection](https://github.com/gkswamy98/imessage-spam-detection/tree/master) - Simple iMessage app to detect whether a message is spam.
+
+* [FNS-Candy](https://github.com/prisma-ai/torch2coreml) - Convert Torch7 models into Apple CoreML format.
+
 * [HED_so](https://github.com/s1ddok/HED-CoreML) - Holistically-Nested Edge Detection. Side outputs
 
 * [Nudity](https://github.com/ph1ps/Nudity-CoreML) - Classifies an image either as NSFW (nude) or SFW (not nude)
