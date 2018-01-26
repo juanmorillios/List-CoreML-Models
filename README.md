@@ -17,7 +17,7 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
-* [DocumentClassifier](https://github.com/toddkramer/DocumentClassifier) - Swift framework for document classification using a Core ML model.
+* [DocumentClassifier](https://github.com/toddkramer/DocumentClassifier) - DocumentClassifier is a Swift framework for classifying documents into one of five categories (Business, Entertainment, Politics, Sports, and Technology). It uses a CoreML model trained with 1,500 news articles from the BBC.
 
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR.
 
