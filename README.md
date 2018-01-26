@@ -16,6 +16,7 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 - - -
 
 # Projects
+* [HED_so](https://github.com/s1ddok/HED-CoreML) - Holistically-Nested Edge Detection. Side outputs
 
 * [Nudity](https://github.com/ph1ps/Nudity-CoreML) - Classifies an image either as NSFW (nude) or SFW (not nude)
 
