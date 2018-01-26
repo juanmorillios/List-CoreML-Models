@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [RN1015k500](https://github.com/awslabs/MXNet2CoreML_iOS_sample_app) - Predict the location where a picture was taken.
+
 * [CNNEmotions](https://github.com/cocoa-ai/FacesVisionDemo) - Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns
 
 * [Inceptionv3](https://github.com/yulingtianxia/Core-ML-Sample/) - Detects the dominant objects present in an image from a set of 1000 categories such as trees, animals, food, vehicles, person etc. The top-5 error from the original publication is 5.6%.
