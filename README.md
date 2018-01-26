@@ -17,6 +17,8 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 # Projects
 
+* [Exermote](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) - Predicts the exercise, when iPhone is worn on right upper arm.
+
 * [SentimentPolarity](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 demo application for sentiment polarity analysis.
 
 * [SentimentPolarity](https://github.com/cocoa-ai/SentimentCoreMLDemo) - iOS11 demo application for sentiment polarity analysis.
