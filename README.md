@@ -110,6 +110,20 @@ CoreML-Models is the result of applying a machine learning algorithm to a set of
 
 * [Official CoreML Documentation](https://developer.apple.com/documentation/coreml)
 
+* [Apple Machine Learning](https://developer.apple.com/machine-learning/)
+
+* [Vision Framework](https://developer.apple.com/documentation/vision)
+
+* [Getting a Core ML Model](https://developer.apple.com/documentation/coreml/getting_a_core_ml_model)
+
+* [Integrating a Core ML Model into Your App](https://developer.apple.com/documentation/coreml/integrating_a_core_ml_model_into_your_app)
+
+* [Welcoming Core ML](https://towardsdatascience.com/welcoming-core-ml-8ba325227a28)
+
+* [Model Zoo](https://github.com/caffe2/caffe2/wiki/Model-Zoo)
+
+
+
 
 ## Utilities to Work with Core ML
 
